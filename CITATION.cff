@@ -3,10 +3,10 @@ message: "If you use this formalisation, please cite it as below."
 title: "Machine-verified derivation of the general Born rule theorem (Lean 4 / Mathlib)"
 type: software
 authors:
-  - family-names: "REPLACE_WITH_YOUR_FAMILY_NAME"
-    given-names: "REPLACE_WITH_YOUR_GIVEN_NAME"
+  - family-names: "DALIMIER"
+    given-names: "BERTRAND"
     affiliation: "Independent Researcher"
-repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_REPO_NAME"
+repository-code: "https://github.com/Bobart0/tstar-born-rule-lean"
 abstract: >
   A Lean 4 formalisation, checked against Mathlib, of the general Theorem 1
   of the descriptive route towards the Born rule: for an arbitrary
@@ -26,15 +26,15 @@ keywords:
   - quantum foundations
   - non-contextuality
   - Everett interpretation
-license: MIT
-version: "1.0.0"
-date-released: "REPLACE_WITH_RELEASE_DATE"
+license: Apache
+version: "2.0.0"
+date-released: "2026-06-04"
 preferred-citation:
   type: article
-  title: "REPLACE_WITH_TECHNICAL_ARTICLE_TITLE"
+  title: "(draft)Machine-verified derivation of the general Born rule theorem (Lean 4 / Mathlib)"
   authors:
-    - family-names: "REPLACE_WITH_YOUR_FAMILY_NAME"
-      given-names: "REPLACE_WITH_YOUR_GIVEN_NAME"
+    - family-names: "DALIMIER"
+      given-names: "BERTRAND"
       affiliation: "Independent Researcher"
   year: 2026
-  url: "REPLACE_WITH_PHILSCI_ARCHIVE_URL_ONCE_DEPOSITED"
+  url: "(philsci-archive url)"
