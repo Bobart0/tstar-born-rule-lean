@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this formalisation, please cite it as below."
+title: "Machine-verified derivation of the general Born rule theorem (Lean 4 / Mathlib)"
+type: software
+authors:
+  - family-names: "REPLACE_WITH_YOUR_FAMILY_NAME"
+    given-names: "REPLACE_WITH_YOUR_GIVEN_NAME"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_REPO_NAME"
+abstract: >
+  A Lean 4 formalisation, checked against Mathlib, of the general Theorem 1
+  of the descriptive route towards the Born rule: for an arbitrary
+  perspective (finite orthogonal decomposition) and an arbitrary cell of a
+  finite-dimensional complex inner product space, the estimation rule is
+  shown to equal the squared overlap of a fixed state on an orthonormal
+  basis of that cell. The only unverified step is an explicitly declared
+  axiom for Gleason's theorem (1957). Lemma 4, deriving non-contextuality
+  from grain coherence alone, depends on no axiom beyond Lean's own three
+  foundational ones.
+keywords:
+  - Born rule
+  - Gleason's theorem
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - quantum foundations
+  - non-contextuality
+  - Everett interpretation
+license: MIT
+version: "1.0.0"
+date-released: "REPLACE_WITH_RELEASE_DATE"
+preferred-citation:
+  type: article
+  title: "REPLACE_WITH_TECHNICAL_ARTICLE_TITLE"
+  authors:
+    - family-names: "REPLACE_WITH_YOUR_FAMILY_NAME"
+      given-names: "REPLACE_WITH_YOUR_GIVEN_NAME"
+      affiliation: "Independent Researcher"
+  year: 2026
+  url: "REPLACE_WITH_PHILSCI_ARCHIVE_URL_ONCE_DEPOSITED"
